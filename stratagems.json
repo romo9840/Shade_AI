@@ -1,0 +1,800 @@
+[
+    {
+        "identifier": [
+            "LIFT-850 Jump Package",
+            "Jump Pack"
+        ],
+        "keys": [
+            40,
+            38,
+            38,
+            40,
+            38
+        ]
+    },
+    {
+        "identifier": [
+            "B-1 Supply Package"
+        ],
+        "keys": [
+            40,
+            37,
+            40,
+            38,
+            38,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "AX/LAS-5 Watchdog Rover"
+        ],
+        "keys": [
+            40,
+            38,
+            37,
+            38,
+            39,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "SH-20 Ballistic Shield Backpack",
+            "Shield",
+            "Backpack"
+        ],
+        "keys": [
+            40,
+            37,
+            40,
+            40,
+            38,
+            37
+        ]
+    },
+    {
+        "identifier": [
+            "AX/AR-23 Watchdog",
+            "Gun Dog",
+            "Gun Drone"
+        ],
+        "keys": [
+            40,
+            38,
+            37,
+            38,
+            39,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "MG-43 Machine Gun",
+            "Machine Gun"
+        ],
+        "keys": [
+            40,
+            37,
+            40,
+            38,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "APW-1 Anti-Material Rifle",
+            "Sniper",
+            "Rifle"
+        ],
+        "keys": [
+            40,
+            37,
+            39,
+            38,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "M-105 Fortitude",
+            "Fortitude",
+            "M one oh five"
+        ],
+        "keys": [
+            40,
+            37,
+            40,
+            38,
+            38,
+            37
+        ]
+    },
+    {
+        "identifier": [
+            "EAST-17 Disposable Anti-Tank System",
+            "East Seventeen",
+            "Anti-Tank",
+            "Bazookas"
+        ],
+        "keys": [
+            40,
+            40,
+            37,
+            38,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "GR-8 Recoilless Rifle",
+            "Rifle"
+        ],
+        "keys": [
+            40,
+            37,
+            39,
+            39,
+            37
+        ]
+    },
+    {
+        "identifier": [
+            "FLAM-40 Flamethrower",
+            "Flamethrower",
+            "Flames"
+        ],
+        "keys": [
+            40,
+            37,
+            38,
+            40,
+            38
+        ]
+    },
+    {
+        "identifier": [
+            "AC-8 Autocannon",
+            "Autocannon"
+        ],
+        "keys": [
+            40,
+            37,
+            40,
+            38,
+            38,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "MG-206 Heavy Machine Gun",
+            "Heavy Gun"
+        ],
+        "keys": [
+            40,
+            37,
+            38,
+            40,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "RS-422 Railgun",
+            "Railgun"
+        ],
+        "keys": [
+            40,
+            39,
+            37,
+            40,
+            38,
+            37,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "FAF-14 Javelin Launcher",
+            "Javelin"
+        ],
+        "keys": [
+            40,
+            40,
+            38,
+            40,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "GL-21 Grenade Launcher",
+            "Grenade Launcher",
+            "Grenades",
+            "Nades"
+        ],
+        "keys": [
+            40,
+            37,
+            38,
+            37,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "LAS-98 Laser Cannon",
+            "Lasers",
+            "Laser Cannon"
+        ],
+        "keys": [
+            40,
+            37,
+            40,
+            38,
+            37
+        ]
+    },
+    {
+        "identifier": [
+            "ARC-3 Arc Launcher",
+            "Arc Launcher",
+            "Lightning gun"
+        ],
+        "keys": [
+            40,
+            39,
+            40,
+            38,
+            37,
+            37
+        ]
+    },
+    {
+        "identifier": [
+            "LAS-99 Quasar Cannon",
+            "Quasar Cannon",
+            "Quasar"
+        ],
+        "keys": [
+            40,
+            40,
+            38,
+            37,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "EXO-45 Patriot Exosuit",
+            "Patriot",
+            "Exo",
+            "Suit up"
+
+        ],
+        "keys": [
+            37,
+            40,
+            39,
+            38,
+            37,
+            40,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "Strengthen"
+        ],
+        "keys": [
+            38,
+            40,
+            39,
+            37,
+            38
+        ]
+    },
+    {
+        "identifier": [
+            "SOS Beacon",
+            "SOS"
+        ],
+        "keys": [
+            38,
+            40,
+            39,
+            37
+        ]
+    },
+    {
+        "identifier": [
+            "Replenishment"
+        ],
+        "keys": [
+            40,
+            40,
+            38,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "NUX-223 Hell Bomb",
+            "Hell Bomb",
+            "Nuke"
+        ],
+        "keys": [
+            40,
+            38,
+            37,
+            40,
+            38,
+            39,
+            40,
+            38
+        ]
+    },
+    {
+        "identifier": [
+            "SSSD Delivery",
+            "Objective"
+        ],
+        "keys": [
+            40,
+            40,
+            40,
+            38,
+            38
+        ]
+    },
+    {
+        "identifier": [
+            "Seismic Probe",
+            "Objective"
+        ],
+        "keys": [
+            38,
+            38,
+            37,
+            39,
+            40,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "Upload Data"
+        ],
+        "keys": [
+            37,
+            39,
+            38,
+            38,
+            38
+        ]
+    },
+    {
+        "identifier": [
+            "Eagle Upgrade"
+        ],
+        "keys": [
+            38,
+            38,
+            37,
+            38,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "Lighting Flickering"
+        ],
+        "keys": [
+            39,
+            39,
+            37,
+            37
+        ]
+    },
+    {
+        "identifier": [
+            "SEAF Artillery",
+            "Artillery"
+        ],
+        "keys": [
+            39,
+            38,
+            38,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "Super Earth Flag",
+            "Flag"
+        ],
+        "keys": [
+            40,
+            38,
+            40,
+            38
+        ]
+    },
+    {
+        "identifier": [
+            "E/MG-101 HMG Position",
+            "HMG emplacement"
+        ],
+        "keys": [
+            40,
+            38,
+            37,
+            39,
+            39,
+            37
+        ]
+    },
+    {
+        "identifier": [
+            "FX-12 Shield Generator Relay"
+        ],
+        "keys": [
+            40,
+            40,
+            37,
+            39,
+            37,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "A/ARC-3 Tesla Tower",
+            "Tesla"
+        ],
+        "keys": [
+            40,
+            38,
+            39,
+            38,
+            37,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "MD-6 Anti-Personnel Minefield",
+            "Minefield",
+            "Mines"
+        ],
+        "keys": [
+            40,
+            37,
+            38,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "MD-14 Incendiary Mines",
+            "Incendiary Mines",
+            "Hot Mines"
+        ],
+        "keys": [
+            40,
+            37,
+            37,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "A/MG-43 Engine Guard"
+        ],
+        "keys": [
+            40,
+            38,
+            39,
+            39,
+            38
+        ]
+    },
+    {
+        "identifier": [
+            "A/G-16 Gatling Sentry",
+            "Gatling Sentry"
+        ],
+        "keys": [
+            40,
+            38,
+            39,
+            37
+        ]
+    },
+    {
+        "identifier": [
+            "A/M-12 Mortar Guard",
+            "Mortar Sentry",
+            "Mortar"
+        ],
+        "keys": [
+            40,
+            38,
+            39,
+            39,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "A/AC-8 Autocannon Guard",
+            "Autocannon Sentry",
+            "Big Gun Sentry"
+        ],
+        "keys": [
+            40,
+            38,
+            39,
+            38,
+            37,
+            38
+        ]
+    },
+    {
+        "identifier": [
+            "A/MLS-4X Missile Guard",
+            "Missile Sentry"
+        ],
+        "keys": [
+            40,
+            38,
+            39,
+            39,
+            37
+        ]
+    },
+    {
+        "identifier": [
+            "A/M-23 EMS Watch"
+        ],
+        "keys": [
+            40,
+            38,
+            39,
+            40,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "Orbital Gatling Barrage",
+            "Orbital Gatling"
+        ],
+        "keys": [
+            39,
+            40,
+            37,
+            38,
+            38
+        ]
+    },
+    {
+        "identifier": [
+            "Orbital Airburst Strike",
+            "Airburst"
+        ],
+        "keys": [
+            39,
+            39,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "Orbital 120mm HE Barrage",
+            "one twenty orbital"
+        ],
+        "keys": [
+            39,
+            39,
+            40,
+            37,
+            39,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "Orbital 380mm HS Barrage",
+            "three eighty orbital"
+        ],
+        "keys": [
+            39,
+            40,
+            38,
+            38,
+            37,
+            40,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "Orbital Barrel Barrage",
+            "Orbital Barrel"
+        ],
+        "keys": [
+            39,
+            40,
+            39,
+            40,
+            39,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "Orbital Laser",
+            "Laser"
+        ],
+        "keys": [
+            39,
+            40,
+            38,
+            39,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "Orbital Rail Cannon Strike",
+            "Orbital Railgun"
+        ],
+        "keys": [
+            39,
+            38,
+            40,
+            40,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "Orbital Precision Strike",
+            "Precision Strike",
+            "Orbital Strike"
+        ],
+        "keys": [
+            39,
+            39,
+            38
+        ]
+    },
+    {
+        "identifier": [
+            "Orbital Gas Attack",
+            "Gas"
+        ],
+        "keys": [
+            39,
+            39,
+            40,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "Orbital EMS Strike",
+            "EMS"
+        ],
+        "keys": [
+            39,
+            39,
+            37,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "Orbital Smoke Attack",
+            "Smoke"
+        ],
+        "keys": [
+            39,
+            39,
+            40,
+            38
+        ]
+    },
+    {
+        "identifier": [
+            "Eagle Strafing Run",
+            "Strafing Run",
+            "Eagle Guns"
+        ],
+        "keys": [
+            38,
+            39,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "Eagle Air Raid"
+        ],
+        "keys": [
+            38,
+            39,
+            40,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "Eagle Cluster Bomb",
+            "Cluster"
+        ],
+        "keys": [
+            38,
+            39,
+            40,
+            40,
+            39
+        ]
+    },
+    {
+        "identifier": [
+            "Eagle Napalm",
+            "Napalm"
+        ],
+        "keys": [
+            38,
+            39,
+            40,
+            38
+        ]
+    },
+    {
+        "identifier": [
+            "Eagle Smoke Strike",
+            "Smoke"
+        ],
+        "keys": [
+            38,
+            39,
+            38,
+            40
+        ]
+    },
+    {
+        "identifier": [
+            "Eagle 110mm Rockets",
+            "one ten Rocket strike"
+        ],
+        "keys": [
+            38,
+            39,
+            38,
+            37
+        ]
+    },
+    {
+        "identifier": [
+            "Eagle 500kg Bomb",
+            "500",
+            "big bomba",
+            "500 kg",
+            "five hundo",
+            "Eagle it"
+
+        ],
+        "keys": [
+            38,
+            39,
+            40,
+            40,
+            40
+        ]
+    }
+]
